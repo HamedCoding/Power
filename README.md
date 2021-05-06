@@ -7,7 +7,7 @@ Average power consumption (classified in 7 levels) for each hour of each weekday
 </p>  
 
   
-The Long short-term memory (LSTM) architecture has been implemented For predecting the power consumption.  
+The Long short-term memory (LSTM) architecture has been implemented for predicting the power consumption.  
 
 <p align="center">
   <img src="https://github.com/hamedmkazemi/Power_Consumption/blob/main/real_vs_pred.png" alt="Sublime's custom image"/>
