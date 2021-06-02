@@ -3,12 +3,12 @@ This dataset contains 8784 records of hourly energy consumption, which retrieved
 
 Average power consumption (classified in 7 levels) for each hour of each weekday in 2016.  
 <p align="center">
-  <img src="https://github.com/hamedmkazemi/Power_Consumption/blob/main/heatmap_power.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmokazemi/Power_Consumption/blob/main/heatmap_power.png" alt="Sublime's custom image"/>
 </p>  
 
   
 The Long short-term memory (LSTM) architecture has been implemented for predicting the power consumption.  
 
 <p align="center">
-  <img src="https://github.com/hamedmkazemi/Power_Consumption/blob/main/real_vs_pred.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmokazemi/Power_Consumption/blob/main/real_vs_pred.png" alt="Sublime's custom image"/>
 </p>  
